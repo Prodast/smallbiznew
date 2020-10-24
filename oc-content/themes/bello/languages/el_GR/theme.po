@@ -1,0 +1,1601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bello\n"
+"POT-Creation-Date: 2018-09-28 12:41+0300\n"
+"PO-Revision-Date: 2018-09-28 12:42+0300\n"
+"Last-Translator: Dis <disruptive555@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "Page not found"
+msgstr "Η σελίδα δε βρέθηκε"
+
+#: 404.php:29
+msgid "Let us help you, we have got a few tips for you to find it."
+msgstr ""
+"Αφήστε μας να σας βοηθήσουμε, έχουμε μερικές συμβουλές για να μπορείτε να το "
+"βρείτε."
+
+#: 404.php:31
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Ψάξτε</strong> το:"
+
+#: 404.php:37 inc.search.city.php:28 inc.search.cityitems.php:28
+#: inc.search.countries.php:29 inc.search.hide.php:26 inc.search.items.php:29
+#: inc.search.php:31
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: 404.php:41
+msgid "<strong>Look</strong> for it in the most popular categories."
+msgstr "<strong>Ψάξτε</strong> το στις πιο δημοφιλής κατηγορίες."
+
+#: admin/ads.php:25 admin/help.php:20 admin/settings.php:33
+msgid "Ads management"
+msgstr "Οι Αγγελίες μου"
+
+#: admin/ads.php:33
+msgid ""
+"In this section you can configure your site to display ads and start "
+"generating revenue."
+msgstr ""
+
+#: admin/ads.php:33
+msgid ""
+"If you are using an online advertising platform, such as Google Adsense, "
+"copy and paste here the provided code for ads."
+msgstr ""
+
+#: admin/ads.php:33
+msgid ""
+"Important! Google Adsense allows you to place only three blocks in page "
+msgstr ""
+
+#: admin/ads.php:40
+msgid "Main page under categories"
+msgstr ""
+
+#: admin/ads.php:44
+msgid ""
+"This ad will be shown at the Main page under categories. Note that the  ad "
+"will be Responsive."
+msgstr ""
+
+#: admin/ads.php:48
+msgid "Homepage top of  latest listings"
+msgstr ""
+
+#: admin/ads.php:52
+msgid ""
+"This ad will be shown at the top of your latest listings in main page. Note "
+"that the  ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:56
+msgid "Homepage under of latest listings"
+msgstr ""
+
+#: admin/ads.php:60
+msgid ""
+"This ad will be shown on the main page under of your latest listings. Note "
+"that the  ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:64
+msgid "Homepage middle of latest listings(only list view).Read Help"
+msgstr ""
+
+#: admin/ads.php:68
+msgid ""
+"This ad will be shown on the main page middle of your latest listings. Note "
+"that the  ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:72
+msgid "No. of item after Show - Homepage middle:"
+msgstr ""
+
+#: admin/ads.php:79
+msgid "Search results top"
+msgstr ""
+
+#: admin/ads.php:83
+msgid ""
+"This ad will be shown at the top search results of your site. Note that the  "
+"ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:87
+msgid "Search results middle(only list view).Read Help"
+msgstr ""
+
+#: admin/ads.php:91
+msgid ""
+"This ad will be shown at middle of search results of your website. Note that "
+"the  ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:95
+msgid "No. of item after Show - Search results middle:"
+msgstr ""
+
+#: admin/ads.php:102
+msgid "Search under of listings"
+msgstr ""
+
+#: admin/ads.php:106
+msgid ""
+"This ad will be shown on the search page under of your listings. Note that "
+"the  ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:110
+msgid "Item under of listing description"
+msgstr ""
+
+#: admin/ads.php:114
+msgid ""
+"This ad will be shown on the item page under of listing description. Note "
+"that the  ad will be Responsive."
+msgstr ""
+
+#: admin/ads.php:118
+msgid "Item sidebar"
+msgstr ""
+
+#: admin/ads.php:122
+msgid ""
+"This ad will be shown on the item page sidebar. Note that the  ad will be "
+"Responsive."
+msgstr ""
+
+#: admin/ads.php:126 admin/items_bello.php:85 admin/related.php:155
+#: admin/settings.php:154 admin/social.php:112 admin/welcome.php:38
+#: admin/welcome.php:84
+msgid "Save changes"
+msgstr ""
+
+#: admin/category_icons.php:1 admin/settings.php:31
+msgid "Category icons"
+msgstr ""
+
+#: admin/category_icons.php:1
+msgid ""
+"Icon must be a PNG file size 20X16px with transparent background. Enable Use "
+"ImageMagick (Show More-Settings-Media) before upload images. Osclass badly "
+"work with transparent background .png and GD library."
+msgstr ""
+
+#: admin/category_icons.php:1
+msgid "Remove icon"
+msgstr ""
+
+#: admin/category_icons.php:1
+msgid "No icon"
+msgstr ""
+
+#: admin/category_icons.php:1 admin/header.php:52 admin/welcome.php:67
+msgid "Upload"
+msgstr ""
+
+#: admin/header.php:13
+msgid "Header logo"
+msgstr ""
+
+#: admin/header.php:16
+msgid "Preview"
+msgstr ""
+
+#: admin/header.php:23
+msgid "Remove logo"
+msgstr ""
+
+#: admin/header.php:31
+msgid "No logo has been uploaded yet"
+msgstr ""
+
+#: admin/header.php:34
+msgid "Upload logo"
+msgstr ""
+
+#: admin/header.php:36
+msgid "The recomended maximum size of the logo is 200x55."
+msgstr ""
+
+#: admin/header.php:38
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
+msgstr ""
+
+#: admin/header.php:46
+msgid "Logo image (png,gif,jpg)"
+msgstr ""
+
+#: admin/header.php:61
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr ""
+
+#: admin/header.php:62
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr ""
+
+#: admin/header.php:63
+msgid "Please make the aforementioned image folder writable."
+msgstr ""
+
+#: admin/header.php:68
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: admin/help.php:3 admin/settings.php:35
+msgid "Help"
+msgstr ""
+
+#: admin/help.php:7
+msgid "Show regions or cities at main page"
+msgstr ""
+
+#: admin/help.php:8
+msgid ""
+"The panel of the administrator - Tools - Locations stats -Calculate "
+"Locations stats."
+msgstr ""
+
+#: admin/help.php:10
+msgid "Control of the size of images"
+msgstr ""
+
+#: admin/help.php:11
+msgid "The panel of the administrator - Settings - Media:"
+msgstr ""
+
+#: admin/help.php:12
+msgid "The miniature size - 216x150"
+msgstr ""
+
+#: admin/help.php:13
+msgid "The preview size - 522x362"
+msgstr ""
+
+#: admin/help.php:14
+msgid ""
+"The normal size - 640x480( For normal size you can setup bigger size. This "
+"is image used in item page in Lightbox)"
+msgstr ""
+
+#: admin/help.php:15
+msgid ""
+"Disable - Force image aspect. No white background will be added to keep the "
+"size."
+msgstr ""
+
+#: admin/help.php:16
+msgid "Enable - Use ImageMagick instead of GD library"
+msgstr ""
+
+#: admin/help.php:21
+msgid "Manage advertising platform, such as Google Adsense"
+msgstr ""
+
+#: admin/help.php:22
+msgid "Homepage and search middle of latest listings work only for list view"
+msgstr ""
+
+#: admin/help.php:23
+msgid ""
+"Default - Middle calculated that on page 10 listing and show after 5 listing"
+msgstr ""
+
+#: admin/help.php:24
+msgid "You can change this in Ads tab."
+msgstr ""
+
+#: admin/help.php:26
+msgid "Pictures for categories"
+msgstr ""
+
+#: admin/help.php:27
+msgid ""
+"If you change standart Osclass categories (or add new), it is necessary for "
+"you to make the pictures for the changed categories."
+msgstr ""
+
+#: admin/help.php:28
+msgid ""
+"The size of images should be 20x16 px in PNG file with transparent background"
+msgstr ""
+
+#: admin/help.php:29
+msgid ""
+"Images, for example, can be taken here:http://www.flaticon.com/free-icon/"
+"black-car_16301"
+msgstr ""
+
+#: admin/help.php:30
+msgid "Go to Category icons tab and ulpoad or replace icons."
+msgstr ""
+
+#: admin/help.php:32
+msgid "Search Max-Min price edit"
+msgstr ""
+
+#: admin/help.php:33
+msgid "Open bello/js/main.js in 161 line min = 0; min price to select."
+msgstr ""
+
+#: admin/help.php:34
+msgid "In 162 line max = 1000000; max price."
+msgstr ""
+
+#: admin/help.php:35
+msgid "In 169 line from = 0; start to select price."
+msgstr ""
+
+#: admin/help.php:36
+msgid "In 170 line step: 10000; step to select price."
+msgstr ""
+
+#: admin/help.php:38
+msgid "Old search background images"
+msgstr ""
+
+#: admin/help.php:39
+msgid "In folder oc-content/themes/bello/img/main_other/"
+msgstr ""
+
+#: admin/items_bello.php:16
+msgid "Item-post options"
+msgstr ""
+
+#: admin/items_bello.php:19
+msgid "Location option:"
+msgstr ""
+
+#: admin/items_bello.php:23
+msgid "With Countries"
+msgstr ""
+
+#: admin/items_bello.php:24
+msgid "Without Countries"
+msgstr ""
+
+#: admin/items_bello.php:28
+msgid "Custom fileds postion:"
+msgstr ""
+
+#: admin/items_bello.php:31
+msgid "After categories"
+msgstr ""
+
+#: admin/items_bello.php:32
+msgid "Bottom"
+msgstr ""
+
+#: admin/items_bello.php:38
+msgid "Item page"
+msgstr ""
+
+#: admin/items_bello.php:39
+msgid "Custom setting for item page."
+msgstr ""
+
+#: admin/items_bello.php:42
+msgid "Mark as in item page:"
+msgstr ""
+
+#: admin/items_bello.php:46 admin/items_bello.php:57 admin/items_bello.php:77
+#: admin/settings.php:120 admin/settings.php:137 admin/settings.php:146
+msgid "Enable"
+msgstr ""
+
+#: admin/items_bello.php:47 admin/items_bello.php:58 admin/items_bello.php:78
+#: admin/settings.php:121 admin/settings.php:138 admin/settings.php:145
+msgid "Disable"
+msgstr ""
+
+#: admin/items_bello.php:53
+msgid "Show useful info in item page:"
+msgstr ""
+
+#: admin/items_bello.php:64
+msgid "Google Maps JavaScript API key:"
+msgstr ""
+
+#: admin/items_bello.php:69
+msgid "Get Google Maps JavaScript API key:"
+msgstr ""
+
+#: admin/items_bello.php:73
+msgid "Show Google Map in item page:"
+msgstr ""
+
+#: admin/related.php:65
+msgid "Setting saved successfully"
+msgstr ""
+
+#: admin/related.php:71
+msgid "Related Ads Preferences"
+msgstr ""
+
+#: admin/related.php:82
+msgid "Number of related ads  "
+msgstr ""
+
+#: admin/related.php:86
+msgid "Enter how many ads you want to show on Item Page (Default is 4)"
+msgstr ""
+
+#: admin/related.php:91
+msgid "Show only premium ads"
+msgstr ""
+
+#: admin/related.php:95 admin/related.php:107 admin/related.php:119
+#: admin/related.php:131 admin/related.php:143
+msgid "No"
+msgstr ""
+
+#: admin/related.php:96 admin/related.php:108 admin/related.php:120
+#: admin/related.php:132 admin/related.php:144
+msgid "Yes"
+msgstr ""
+
+#: admin/related.php:98
+msgid "Select Yes if you want to show premium ads only"
+msgstr ""
+
+#: admin/related.php:103
+msgid "Show ads with pictures only"
+msgstr ""
+
+#: admin/related.php:110
+msgid "Select Yes if you want to show ads with picture only"
+msgstr ""
+
+#: admin/related.php:115
+msgid "Show ads with same category"
+msgstr ""
+
+#: admin/related.php:122
+msgid "Select Yes to Filter ads by Category"
+msgstr ""
+
+#: admin/related.php:127
+msgid "Show ads with same country"
+msgstr ""
+
+#: admin/related.php:134
+msgid "Select Yes to Filter ads by Country"
+msgstr ""
+
+#: admin/related.php:139
+msgid "Show ads with same region"
+msgstr ""
+
+#: admin/related.php:146
+msgid "Select Yes to Filter ads by Region"
+msgstr ""
+
+#: admin/settings.php:14 admin/settings.php:187 footer.php:105
+msgid "osclass-pro.com"
+msgstr ""
+
+#: admin/settings.php:17 footer.php:70
+msgid "Follow us"
+msgstr ""
+
+#: admin/settings.php:18
+msgid "osclassprocom"
+msgstr ""
+
+#: admin/settings.php:19
+msgid "osclass_pro_com"
+msgstr ""
+
+#: admin/settings.php:20
+msgid "107706977667016834969/posts"
+msgstr ""
+
+#: admin/settings.php:28 admin/settings.php:38
+msgid "Theme settings"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Header"
+msgstr ""
+
+#: admin/settings.php:30
+msgid "Footer"
+msgstr ""
+
+#: admin/settings.php:32
+msgid "Items"
+msgstr ""
+
+#: admin/settings.php:34
+msgid "Related ads"
+msgstr "Δημοφιλή"
+
+#: admin/settings.php:44
+msgid "Search placeholder"
+msgstr ""
+
+#: admin/settings.php:48
+msgid "Footer link"
+msgstr ""
+
+#: admin/settings.php:50
+msgid ""
+"I want to help osclass-pro.com by linking to <a href=\"https://osclass-pro."
+"com/\" target=\"_blank\">osclass-pro.com</a> from my site with the following "
+"text:"
+msgstr ""
+
+#: admin/settings.php:51 footer.php:105
+msgid "We using"
+msgstr ""
+
+#: admin/settings.php:51 footer.php:105
+msgid "Osclass Theme"
+msgstr ""
+
+#: admin/settings.php:57
+msgid "Show lists as:"
+msgstr ""
+
+#: admin/settings.php:60
+msgid "Gallery"
+msgstr ""
+
+#: admin/settings.php:61
+msgid "List"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Search select option:"
+msgstr ""
+
+#: admin/settings.php:68
+msgid ""
+"Search select option(Use the city in the search, if you have a single region "
+"or not many regions."
+msgstr ""
+
+#: admin/settings.php:69 admin/settings.php:85
+msgid ""
+"If you have many regions or countries. Home page can be opened for a long "
+"time with city option.)"
+msgstr ""
+
+#: admin/settings.php:73
+msgid "With all Regions"
+msgstr ""
+
+#: admin/settings.php:74 admin/settings.php:90
+msgid "Regions with items"
+msgstr ""
+
+#: admin/settings.php:75
+msgid "With all Cities"
+msgstr ""
+
+#: admin/settings.php:76 admin/settings.php:92
+msgid "Cities with items"
+msgstr ""
+
+#: admin/settings.php:77 admin/settings.php:93
+msgid "Countries with items"
+msgstr ""
+
+#: admin/settings.php:78
+msgid "Hide search"
+msgstr ""
+
+#: admin/settings.php:83
+msgid "Footer in Main page:"
+msgstr ""
+
+#: admin/settings.php:84
+msgid ""
+"Use the city in the footer, if you have a single region or not many regions."
+msgstr ""
+
+#: admin/settings.php:86
+msgid ""
+"Before select this option, Show more - Tools -Locations stats - Calculate "
+"location stats.)"
+msgstr ""
+
+#: admin/settings.php:89
+msgid "Show all regions"
+msgstr ""
+
+#: admin/settings.php:91
+msgid "Show  all cities"
+msgstr ""
+
+#: admin/settings.php:94 admin/settings.php:105
+msgid "Hide"
+msgstr ""
+
+#: admin/settings.php:99
+msgid "Carousel in Main page:"
+msgstr ""
+
+#: admin/settings.php:103
+msgid "Premium items"
+msgstr ""
+
+#: admin/settings.php:104
+msgid "Popular items"
+msgstr ""
+
+#: admin/settings.php:110
+msgid "No. of items in carousel:"
+msgstr ""
+
+#: admin/settings.php:116
+msgid "Category Icon in latest and search items:"
+msgstr ""
+
+#: admin/settings.php:126
+msgid "Sidebar search category select:"
+msgstr ""
+
+#: admin/settings.php:129
+msgid "Select in 1 line"
+msgstr ""
+
+#: admin/settings.php:130
+msgid "With checkbox"
+msgstr ""
+
+#: admin/settings.php:133
+msgid "Go to category block in search pages:"
+msgstr ""
+
+#: admin/settings.php:142
+msgid "Search with Subcategories in main page:"
+msgstr ""
+
+#: admin/social.php:18
+msgid "Contact Information"
+msgstr ""
+
+#: admin/social.php:21
+msgid "Your location"
+msgstr ""
+
+#: admin/social.php:25 admin/social.php:33 admin/social.php:41
+msgid ""
+"This text will be displayed in the footer of the page  in section Contacts."
+msgstr ""
+
+#: admin/social.php:29
+msgid "Your phones"
+msgstr ""
+
+#: admin/social.php:37
+msgid "Your email"
+msgstr ""
+
+#: admin/social.php:44
+msgid "Social links in footer"
+msgstr ""
+
+#: admin/social.php:46
+msgid "Facebook"
+msgstr ""
+
+#: admin/social.php:50
+msgid "This link to you Facebook page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:54
+msgid "Twitter"
+msgstr ""
+
+#: admin/social.php:58
+msgid "This link to you Twitter page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:62
+msgid "Google+"
+msgstr ""
+
+#: admin/social.php:66
+msgid "This link to you Google+ page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:70
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/social.php:74
+msgid "This link to you LinkedIn page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:78
+msgid "Pinterest"
+msgstr ""
+
+#: admin/social.php:82
+msgid "This link to you Pinterest page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:86
+msgid "Vkontakte"
+msgstr ""
+
+#: admin/social.php:90
+msgid "This link to you Vkontakte page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:94
+msgid "Odnoklassniki"
+msgstr ""
+
+#: admin/social.php:98
+msgid "This link to you Odnoklassniki page will be shown in footer."
+msgstr ""
+
+#: admin/social.php:101
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/social.php:103 admin/welcome.php:77
+msgid "Background color"
+msgstr ""
+
+#: admin/welcome.php:13
+msgid "Main Welcome Text and Search Background Image"
+msgstr ""
+
+#: admin/welcome.php:19
+msgid "Main page H1 Welcome Text "
+msgstr ""
+
+#: admin/welcome.php:23
+msgid "This  H1 Welcome Text be shown at the Main page."
+msgstr ""
+
+#: admin/welcome.php:27
+msgid "Main page under H1 Welcome Text "
+msgstr ""
+
+#: admin/welcome.php:31
+msgid "This Welcome Text under H1 be shown at the Main page."
+msgstr ""
+
+#: admin/welcome.php:43
+msgid "Main Search Background Image"
+msgstr ""
+
+#: admin/welcome.php:50
+msgid "Loaded image"
+msgstr ""
+
+#: admin/welcome.php:56 item.php:363
+msgid "Delete"
+msgstr ""
+
+#: admin/welcome.php:63
+msgid "Recommended image size - 1920x456px."
+msgstr ""
+
+#: admin/welcome.php:64
+msgid "IMPORTANT!Before downloading new pictures - delete the old."
+msgstr ""
+
+#: admin/welcome.php:71
+msgid "Main Search Background Color"
+msgstr ""
+
+#: admin/welcome.php:72
+msgid "You can select background color for image with transparent background."
+msgstr ""
+
+#: admin/welcome.php:73
+msgid "Or you can just select color and not upload image."
+msgstr ""
+
+#: alert-form.php:14
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Έχετε εγγραφεί επιτυχώς στην ειδοποίηση"
+
+#: alert-form.php:15 user-change_email.php:48
+msgid "Invalid email address"
+msgstr "Λάθος email"
+
+#: alert-form.php:16
+msgid "There was a problem with the alert"
+msgstr "Υπήρξε πρόβλημα με την ειδοποίηση"
+
+#: alert-form.php:47
+msgid "Subscribe to this search"
+msgstr "Εγγραφή σε αυτή την αναζήτηση"
+
+#: alert-form.php:57 alert-form.php:62
+msgid "Subscribe"
+msgstr "Εγγραφή"
+
+#: contact.php:36 template-contact.php:41
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: contact.php:44 template-contact.php:49
+msgid "Subject"
+msgstr "Θέμα"
+
+#: contact.php:48 item-contact.php:39 item-send-friend.php:50 item.php:419
+#: template-contact.php:50 user-public-profile.php:198
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: contact.php:52 item-contact.php:35 item-send-friend.php:45 item.php:317
+#: item.php:414 template-contact.php:51 user-public-profile.php:194
+msgid "Your name"
+msgstr "Το όνομα σας"
+
+#: contact.php:56 item-contact.php:36 item-send-friend.php:46 item.php:415
+#: template-contact.php:52 user-public-profile.php:195
+msgid "Your e-mail address"
+msgstr "Το email σου"
+
+#: contact.php:59 item-send-friend.php:53 item.php:332 item.php:444
+#: template-contact.php:54 user-public-profile.php:224
+msgid "Send"
+msgstr "Αποστολή"
+
+#: footer.php:18 inc.main.subcategory.php:29 search.php:134
+#: search_module.php:31 search_module2.php:53
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: footer.php:33
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: footer.php:45
+msgid "Contacts"
+msgstr "Επαφές"
+
+#: footer.php:105
+msgid "Osclass Premium Themes"
+msgstr "Ομάδα του Osclass"
+
+#: functions.php:1
+msgid "Select a region"
+msgstr "Επιλέξτε μια ανάρτηση"
+
+#: functions.php:1
+msgid "Select a city"
+msgstr "Επιλογή πόλης"
+
+#: functions.php:1
+msgid "Select a country"
+msgstr "Επιλέξτε μια χώρα"
+
+#: functions.php:1
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: functions.php:1
+msgid "Theme settings updated correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "The logo image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "An error has occurred, please try again"
+msgstr "Παρουσιάστηκε σφάλμα, παρακαλώ προσπαθήστε ξανά"
+
+#: functions.php:1
+msgid "The logo image has been removed"
+msgstr ""
+
+#: functions.php:1
+msgid "Image not found"
+msgstr ""
+
+#: functions.php:1
+msgid "Settings updated correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "Ads management updated correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "The icon has been uploaded correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "The icon has been removed"
+msgstr ""
+
+#: functions.php:1
+msgid "The image has been uploaded correctly"
+msgstr ""
+
+#: functions.php:1
+msgid "The image has been removed"
+msgstr ""
+
+#: functions.php:1
+msgid "Background color updated"
+msgstr ""
+
+#: google_map_module.php:12
+msgid "City not specified"
+msgstr "Περιοχή Πόλης"
+
+#: header.php:25
+msgid "Home"
+msgstr "Αρχική σελίδα"
+
+#: header.php:28
+msgid "My account"
+msgstr "Ο λογαριασμός μου"
+
+#: header.php:29
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: header.php:31 item.php:399
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: header.php:33
+msgid "Registration"
+msgstr "Εγγραφή"
+
+#: header.php:38
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: header.php:57
+msgid "Publish your ad"
+msgstr "Δημοσίευση διαφήμισης"
+
+#: inc.main.subcategory.php:54
+msgid "View all"
+msgstr "Δείτε τα όλα"
+
+#: inc.search.city.php:18 inc.search.cityitems.php:18
+#: inc.search.countries.php:19 inc.search.hide.php:24 inc.search.items.php:19
+#: inc.search.php:17 inc.search.php:22 item-edit.php:94 item-edit.php:98
+#: item-post.php:94 item-post.php:98
+msgid "Select a category"
+msgstr "Επιλέξτε κατηγορία"
+
+#: item-contact.php:21
+msgid "Contact seller"
+msgstr "Επικοινωνία με τον πωλητή"
+
+#: item-contact.php:29
+msgid "To (seller)"
+msgstr "Επικοινωνία με τον πωλητή"
+
+#: item-contact.php:30 item-send-friend.php:40
+msgid "Listing"
+msgstr "Καταχώριση"
+
+#: item-contact.php:38 item.php:416 user-public-profile.php:196
+msgid "Phone number"
+msgstr "Αριθμός τηλεφώνου"
+
+#: item-contact.php:38 item.php:422 template-contact.php:49
+#: template-contact.php:51 user-public-profile.php:196
+#: user-public-profile.php:201
+msgid "optional"
+msgstr "προαιρετικό"
+
+#: item-contact.php:41
+msgid "Send message"
+msgstr "Αποστολή μηνύματος"
+
+#: item-edit.php:91
+msgid "Update your listing"
+msgstr "Δημοσιεύστε τη διαφήμισή σας"
+
+#: item-edit.php:114 item-post.php:114
+msgid "Add images"
+msgstr "Προσθέστε φωτογραφία"
+
+#: item-edit.php:115 item-post.php:115
+msgid "You can upload up to"
+msgstr "Μπορείτε να ανεβάσετε μέχρι"
+
+#: item-edit.php:115 item-post.php:115
+msgid "pictures per listing"
+msgstr "Αγγελίες με εικόνες"
+
+#: item-edit.php:118 item-post.php:118
+msgid "Images"
+msgstr "Εικόνες"
+
+#: item-edit.php:124
+msgid "Photos"
+msgstr "Φωτογραφίες"
+
+#: item-edit.php:133 item-post.php:129
+msgid "Add new photo"
+msgstr "Προσθέστε φωτογραφία"
+
+#: item-edit.php:141 item-edit.php:144 item-post.php:137 item-post.php:140
+#: search_module.php:59 search_module2.php:60
+msgid "Price"
+msgstr "Τιμή"
+
+#: item-edit.php:154 item-post.php:150
+msgid "Listing Location"
+msgstr "Τοποθεσία Αγγελίας"
+
+#: item-edit.php:158 item-post.php:154 user-profile.php:129
+msgid "Country"
+msgstr "Χώρα"
+
+#: item-edit.php:165 item-post.php:161 user-profile.php:137
+msgid "Region"
+msgstr "Πόλη"
+
+#: item-edit.php:171 item-post.php:167 user-profile.php:145
+msgid "City"
+msgstr "Πόλη"
+
+#: item-edit.php:177 item-post.php:173
+msgid "City Area"
+msgstr "Περιοχή Πόλης"
+
+#: item-edit.php:181 item-post.php:177 user-profile.php:153
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: item-edit.php:193 item-post.php:182
+msgid "Seller's information"
+msgstr "Πληροφορίες "
+
+#: item-edit.php:196 item-post.php:185 user-profile.php:88
+msgid "Name"
+msgstr "Όνομα"
+
+#: item-edit.php:200 item-post.php:189 user-login.php:42 user-profile.php:94
+msgid "E-mail"
+msgstr "E-mail"
+
+#: item-edit.php:207 item-post.php:196
+msgid "Show e-mail on the listing page"
+msgstr "Να εμφανίζεται το email στην σελίδα της αγγελίας"
+
+#: item-edit.php:226 user-change_email.php:125 user-change_password.php:88
+#: user-change_username.php:111 user-profile.php:170
+msgid "Update"
+msgstr "Ανανέωση"
+
+#: item-edit.php:233
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: item-post.php:91
+msgid "Publish a listing"
+msgstr "Δημοσιεύση Αγγελίας"
+
+#: item-post.php:226
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+#: item-send-friend.php:33
+msgid "Send to a friend"
+msgstr "Αποστολή σε φίλο"
+
+#: item-send-friend.php:48
+msgid "Your friend's name"
+msgstr "Το όνομα του φίλου σου"
+
+#: item-send-friend.php:49
+msgid "Your friend's e-mail address"
+msgstr "Το email του φίλου σου"
+
+#: item.php:46
+msgid "Edit item"
+msgstr "Επεξεργασία Αγγελίας"
+
+#: item.php:59
+msgid "Mark as..."
+msgstr "Επισήμανση ως ..."
+
+#: item.php:60
+msgid "Mark as spam"
+msgstr "Επισήμανση ως ανεπιθύμητο"
+
+#: item.php:61
+msgid "Mark as misclassified"
+msgstr "Επισήμανση ως λανθασμένη καταχώρηση"
+
+#: item.php:62
+msgid "Mark as duplicated"
+msgstr "Επισήμανση ως διπλότυπη αγγελία"
+
+#: item.php:63
+msgid "Mark as expired"
+msgstr ""
+
+#: item.php:64
+msgid "Mark as offensive"
+msgstr "Επισήμανση ως προσβλητική αγγελία"
+
+#: item.php:75 search.php:80
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: item.php:147
+msgid "Published date"
+msgstr "Δημοσίευση ημερομηνίας"
+
+#: item.php:152
+msgid "Modified date"
+msgstr "Τροποποιημένη ημερομηνία"
+
+#: item.php:175
+msgid "Views"
+msgstr "Προβολές"
+
+#: item.php:200 search.php:112 user-register.php:69
+msgid "Company"
+msgstr "Η Εταιρεία"
+
+#: item.php:202 user-register.php:68
+msgid "User"
+msgstr "Χρήστης"
+
+#: item.php:206 user-public-profile.php:71
+msgid "Register date"
+msgstr "Ημερομηνία εγγραφής"
+
+#: item.php:244
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: item.php:278
+msgid "Useful information"
+msgstr "Χρήσιμες πληροφορίες"
+
+#: item.php:280
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Αποφύγετε απάτες δρώντας τοπικά ή πληρώνοντας μέσω PayPal"
+
+#: item.php:281
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr ""
+"Μην πληρώνετε με Western Union, Moneygram ή άλλες ανώνυμες υπηρεσίες πληρωμών"
+
+#: item.php:282
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr ""
+"Μην αγοράζετε από ή πουλάτε έξω απο την χώρας σας. Μην δέχεστε επιταγές "
+"ταμείου έξω από τη χώρα σας"
+
+#: item.php:283
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
+msgstr ""
+"Αυτή η ιστοσελίδα δεν εμπλέκεται ποτέ σε συναλλαγές και δεν χειρίζεται "
+"πληρωμές, μεταφορές, εγγυήσεις συναλλαγών, δεν παρέχει υπηρεσίες "
+"διαμεσολάβησης και δεν προσφέρει \"προστασία αγοραστή \" ή \"πιστοποίηση "
+"πωλητή \""
+
+#: item.php:292 item.php:293
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: item.php:322
+msgid "Your e-mail"
+msgstr "Το email σου"
+
+#: item.php:328
+msgid "Title"
+msgstr "Τίτλος"
+
+#: item.php:330
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: item.php:363
+msgid "Delete your comment"
+msgstr "Διαγραφή του σχόλιού σου"
+
+#: item.php:392
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Είναι δική σας αγγελία, δεν μπορείτε να επικοινωνήσετε με τον εκδότη."
+
+#: item.php:396
+msgid ""
+"You must log in or register a new account in order to contact the publisher"
+msgstr ""
+"Πρέπει να συνδεθείτε ή να δημιουργήσετε νέο λογαριασμό για να επικοινωνήσετε "
+"με τον εκδότη"
+
+#: item.php:400 user-login.php:59
+msgid "Register for a free account"
+msgstr "Εγγραφείτε για ένα Δωρεάν λογαριασμό"
+
+#: item.php:409 user-public-profile.php:190
+msgid "Contact publisher"
+msgstr "Επικοινωνία με τον αποστολέα"
+
+#: item.php:422 user-public-profile.php:201
+msgid "Attachment"
+msgstr "Συνημμένο"
+
+#: item.php:452
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: js/jquery-ui.min.js:10
+msgid "'"
+msgstr ""
+
+#: main.php:76
+msgid "Premium listings"
+msgstr "Premium καταχωρήσεις"
+
+#: main.php:148
+msgid "Most popular listings"
+msgstr "Οι πιο δημοφιλείς καταχωρήσεις"
+
+#: main.php:227
+msgid "Latest Listings"
+msgstr "Τελευταίες Αγγελίες"
+
+#: main.php:235
+msgid "No Latest Listings"
+msgstr "Τελευταίες Αγγελίες"
+
+#: main.php:315 search_list.php:59 search_list.php:115
+#: user-public-profile.php:160
+msgid "Read more"
+msgstr "περισσότερο"
+
+#: main.php:338
+msgid "All offers"
+msgstr "Όλες οι προσφορές"
+
+#: related_bello_ads.php:6
+msgid "Related Ads"
+msgstr "Σχετικές Αγγελίες"
+
+#: search.php:110
+msgid "All"
+msgstr "Όλα"
+
+#: search.php:111
+msgid "Users"
+msgstr ""
+
+#: search.php:175
+msgid "There are no results matching"
+msgstr "Δεν υπάρχουν αποτελέσματα που να ταιριάζουν"
+
+#: search_module.php:22 search_module2.php:31
+msgid "search"
+msgstr "αναζήτηση"
+
+#: search_module.php:25 search_module2.php:34
+msgid "Your search"
+msgstr "Η αναζήτηση σου"
+
+#: search_module.php:26 search_module2.php:35
+msgid "city"
+msgstr "πόλη"
+
+#: search_module.php:61 search_module2.php:62
+msgid "Min"
+msgstr "Ελ"
+
+#: search_module.php:63 search_module2.php:64
+msgid "Max"
+msgstr "Μεγ"
+
+#: search_module.php:82 search_module2.php:83
+msgid "SEARCH"
+msgstr "ΑΝΑΖΗΤΗΣΗ"
+
+#: search_module.php:98 search_module2.php:99
+msgid "Selected"
+msgstr "Επιλεγμένο"
+
+#: search_module.php:99 search_module2.php:100
+msgid "Nothing selected, input was"
+msgstr "Τίποτα δεν επιλέγη, το πεδίο ήταν"
+
+#: user-alerts.php:41 user-change_email.php:80 user-change_password.php:40
+#: user-change_username.php:89 user-custom.php:39 user-dashboard.php:40
+#: user-items.php:41 user-profile.php:46
+msgid "User account manager"
+msgstr "Διαχειριστής λογαριασμού χρήστη"
+
+#: user-alerts.php:59
+msgid "Your alerts"
+msgstr "Οι ειδοποιήσεις σας"
+
+#: user-alerts.php:63
+msgid "You do not have any alerts yet"
+msgstr "Δεν έχεις ειδοποιήσεις ακόμα"
+
+#: user-alerts.php:73
+msgid "Alert"
+msgstr "Ειδοποίηση"
+
+#: user-alerts.php:73
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+"Αυτή ηΑυτή η ενέργεια δεν μπορεί να αναιρεθεί. Είστε βέβαιοι ότι θέλετε να "
+"συνεχίσετε;"
+
+#: user-alerts.php:73
+msgid "Delete this alert"
+msgstr "Διαγραφή αυτής της ειδοποίησης"
+
+#: user-alerts.php:78 user-dashboard.php:63 user-items.php:68
+msgid "No listings have been added yet"
+msgstr "Δεν υπάρχουν αγγελίες ακόμα"
+
+#: user-alerts.php:85 user-items.php:77
+msgid "Activated"
+msgstr "Ενεργοποιημένο"
+
+#: user-alerts.php:85 user-items.php:77
+msgid "Inactivated"
+msgstr ""
+"11/5000\n"
+"Απενεργοποιημένο"
+
+#: user-alerts.php:86 user-items.php:78
+msgid "Premium"
+msgstr "Κορυφαίο"
+
+#: user-alerts.php:87 user-items.php:79
+msgid "Spam"
+msgstr "Ανεπιθύμητο"
+
+#: user-alerts.php:100 user-dashboard.php:80 user-items.php:89
+msgid "Publication date"
+msgstr "Ημερομηνία δημοσίευσης"
+
+#: user-change_email.php:47
+msgid "Email: this field is required"
+msgstr "Όνομα χρήστη: Αυτό το πεδίο απαιτείται"
+
+#: user-change_email.php:100
+msgid "Change your e-mail"
+msgstr "Αλλαγή e-mail"
+
+#: user-change_email.php:110
+msgid "Current e-mail"
+msgstr "Τρέχον  e-mail"
+
+#: user-change_email.php:117
+msgid "New e-mail"
+msgstr "Νέο e-mail"
+
+#: user-change_password.php:60
+msgid "Change your password"
+msgstr "Αλλάξτε τον κωδικό σας"
+
+#: user-change_password.php:68
+msgid "Current password"
+msgstr "Τρέχον  Κωδικός"
+
+#: user-change_password.php:74 user-forgot_password.php:36
+msgid "New password"
+msgstr "Νέος Κωδικός"
+
+#: user-change_password.php:80 user-forgot_password.php:40
+msgid "Repeat new password"
+msgstr "Επανάληψη κωδικού"
+
+#: user-change_username.php:47
+msgid "Username: this field is required"
+msgstr "Όνομα χρήστη: Αυτό το πεδίο απαιτείται"
+
+#: user-change_username.php:72
+msgid "The username is available"
+msgstr "Το όνομα χρήστη είναι διαθέσιμο"
+
+#: user-change_username.php:74
+msgid "The username is NOT available"
+msgstr "Το όνομα χρήστη Δεν είναι διαθέσιμο"
+
+#: user-change_username.php:95
+msgid "Change your username"
+msgstr ""
+
+#: user-change_username.php:102
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: user-change_username.php:106
+msgid ""
+"WARNING: Once set, you will not be able to change your username again. "
+"Choose wisely."
+msgstr ""
+"Δεν θα μπορέσετε να τους αλλάξετε τα μυαλά, παρά τα χτυπήματα που δέχονται."
+
+#: user-dashboard.php:58 user-items.php:59
+#, php-format
+msgid "Listings from %s"
+msgstr "Οι πιο δημοφιλείς καταχωρήσεις  %s"
+
+#: user-dashboard.php:88 user-items.php:99
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: user-forgot_password.php:28 user-recover.php:36
+msgid "Recover your password"
+msgstr "Ανάκτηση κωδικού"
+
+#: user-forgot_password.php:43
+msgid "Change password"
+msgstr "Αλλαγή κωδικού"
+
+#: user-items.php:63
+msgid "Post a new listing"
+msgstr "Νέα Επιχείρηση"
+
+#: user-items.php:101
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr ""
+"Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Είστε βέβαιοι ότι θέλετε να "
+"συνεχίσετε;"
+
+#: user-login.php:35
+msgid "Access to your account"
+msgstr "Πρόσβαση στο λογαριασμό σας"
+
+#: user-login.php:46
+msgid "Password"
+msgstr "Κωδικός"
+
+#: user-login.php:52
+msgid "Remember me"
+msgstr "Να με θυμάσαι"
+
+#: user-login.php:56
+msgid "Log in"
+msgstr "Σύνδεση"
+
+#: user-login.php:62
+msgid "Forgot password?"
+msgstr "Ξέχασες τον κωδικό?"
+
+#: user-profile.php:66
+msgid "Update your profile"
+msgstr "Δημοσιεύστε τη διαφήμισή σας"
+
+#: user-profile.php:74
+msgid ""
+"All your listings and alerts will be removed, this action can not be undone."
+msgstr ""
+"Θα καταργηθούν όλες τις καταχωρήσεις σας και τις ειδοποιήσεις, αυτή η "
+"ενέργεια δεν μπορεί να αναιρεθεί."
+
+#: user-profile.php:100
+msgid "Modify e-mail"
+msgstr "Το email σου"
+
+#: user-profile.php:103
+msgid "Modify password"
+msgstr "Κωδικός"
+
+#: user-profile.php:108
+msgid "User type"
+msgstr "Τύπος χρήστη"
+
+#: user-profile.php:117
+msgid "Cell phone"
+msgstr "Κινητό"
+
+#: user-profile.php:123
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: user-profile.php:159
+msgid "Website"
+msgstr "Σελίδα"
+
+#: user-profile.php:165 user-public-profile.php:112
+msgid "User Description"
+msgstr "Περιγραφή χρήστη"
+
+#: user-profile.php:174
+msgid "Delete my account"
+msgstr "Διαχειριστής λογαριασμού χρήστη"
+
+#: user-public-profile.php:65
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: user-recover.php:48
+msgid "Send me a new password"
+msgstr "Στείλτε μου ένα νέο κωδικό πρόσβασης"
+
+#: user-register.php:37
+msgid "Register an account for free"
+msgstr "Ανοίξτε έναν ΔΩΡΕΑΝ λογαριασμό"
+
+#: user-register.php:44
+msgid "Name *"
+msgstr "Ονομα *"
+
+#: user-register.php:48
+msgid "Password *"
+msgstr "Κωδικός*"
+
+#: user-register.php:52
+msgid "Re-type password *"
+msgstr "Τρέχον  Κωδικός"
+
+#: user-register.php:55
+msgid "Passwords don't match"
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+
+#: user-register.php:59
+msgid "E-mail *"
+msgstr "E-mail *"
+
+#: user-register.php:63
+msgid "Mobile Phone"
+msgstr "Κινητό τηλέφωνο"
+
+#: user-register.php:74
+msgid "* This field is required"
+msgstr "Όνομα χρήστη: Αυτό το πεδίο απαιτείται"
+
+#: user-register.php:88
+msgid "Create"
+msgstr "Δημιουργία"
+
+#~ msgid "Blog"
+#~ msgstr "ειδήσεις"
+
+#~ msgid "Inbox"
+#~ msgstr "Εισερχόμενα"
+
+#~ msgid "Date"
+#~ msgstr "Ημερομηνία"
+
+#~ msgid "From"
+#~ msgstr "Από"
+
+#~ msgid "You have no messages"
+#~ msgstr "Δεν έχετε τα φιλτραρισμένα μηνύματα."
+
+#~ msgid "Today "
+#~ msgstr "Σήμερα"
+
+#~ msgid "Are you sure you want to delete all selected personal messages?"
+#~ msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τις επιλεγμένες ασθένειες?"
+
+#~ msgid "Remove Selected"
+#~ msgstr "Αφαίρεση επιλεγμένων"
