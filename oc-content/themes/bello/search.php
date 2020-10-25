@@ -135,7 +135,7 @@ osc_current_web_theme_path('search_module.php') ;
                             <ul class="categories__list">
                                 <?php osc_goto_first_category(); while(osc_has_categories()) { ?>
                                     <li class="categories__item">
-                                        <a href="#dropdownMenu1" class="categoreis__link" >
+                                        <a href="projects" class="categoreis__link" >
                                             <b class="icon icon-1">
                                                 <?php if( osc_get_preference('item-icon', 'bello') == 'enable') {?>
                                                     <img src="<?php echo osc_current_web_theme_url('img/'.osc_category_id(osc_locale_code()).'.png')?>" alt="">
