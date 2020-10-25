@@ -35,7 +35,7 @@ font-family:inherit;font-size:inherit;line-height:inherit
 }
 
 a{
-color:#337ab7;text-decoration:none
+color:#005aa0;text-decoration:none
 }
 
 a:focus,a:hover{
@@ -3226,7 +3226,7 @@ color:#02baab;font-size:15px
 }
 
 .form-control,.textarea{
-font-size:13px;color:#525252
+font-size:14px;color:#525252
 }
 
 .modal-header .close{
@@ -3944,7 +3944,7 @@ border-top:1px solid #edf5f4;padding-top:20px;text-align:center
 }
 
 .authentication__form .authentication__help .help__link{
-margin:0 10px 5px;display:inline-block;vertical-align:middle;font-size:13px;color:#02baab;text-decoration:underline
+margin:0 10px 5px;display:inline-block;vertical-align:middle;font-size:13px;color:#003faa;text-decoration:underline
 }
 
 @media screen and (max-width:325px){
@@ -5350,7 +5350,7 @@ text-align:center;padding-bottom:9px;border-bottom:1px solid #edf5f4;overflow:hi
 }
 
 .product--block .product__content .product__title .title__text{
-overflow:hidden;max-height:13px;text-transform:uppercase;color:#02baab;font-weight:700;font-size:14px;display:inline-block
+overflow:hidden;max-height:13px;text-transform:uppercase;color:#000000;font-weight:700;font-size:14px;display:inline-block
 }
 
 @media screen and (max-width:991px){
