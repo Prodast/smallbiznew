@@ -5267,7 +5267,7 @@ display:block;height:0;clear:both;content:''
 }
 
 .products .products__all{
-width:170px;display:block;margin:0 auto;background-color:#f4f9f9;height:34px;line-height:34px;color:#02baab;text-decoration:none!important
+width:170px;display:block;margin:0 auto;background-color:#f4f9f9;height:34px;line-height:34px;color:#005aa0;text-decoration:none!important
 }
 
 .products .products__all:hover span{
@@ -5520,7 +5520,7 @@ text-align:left;padding-top:18px;padding-bottom:18px;overflow:hidden
 text-align:left;padding-top:18px;padding-bottom:18px;overflow:hidden
 }
 .product--list .product__content .product__title .title__text{
-width:17000px;overflow:hidden;max-height:26px;text-transform:uppercase;color:#02baab;font-weight:900;font-size:13px;display:inline-block
+width:17000px;overflow:hidden;max-height:26px;text-transform:uppercase;color:#000000;font-weight:900;font-size:13px;display:inline-block
 }
 .product--list .product__content-2 .product__title .title__text{
 width:17000px;overflow:hidden;max-height:26px;text-transform:uppercase;color:#02baab;font-weight:900;font-size:13px;display:inline-block
